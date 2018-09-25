@@ -1,7 +1,7 @@
 ha=int(input())
 if(ha>0):
-    print("positive")
+    print("Positive")
 elif(ha==0):
-    print("zero")
+    print("Zero")
 else:
-    print("negative")
+    print("Negative")
